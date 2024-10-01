@@ -1,13 +1,6 @@
-# ML-StockPrice-Prediction
-# ML-StockPrice-Prediction
-pip install -r requirements.txt
-cd models
-streamlit run chat-stockbot.py
-# bookshelf
-# bookshelf
-# Simple-JavaScript-Tasks
-# Simple-Java-xml-parser
-# Simple-php-tasks
-# petstore
-# Doctor-appointment
 # Calculator-App
+A simple calcultor app built using 
+a )JavaScript
+b) PHP
+c) Servlet and
+d) JSP.
